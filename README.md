@@ -2,7 +2,7 @@
 
 <h1>Cricut.com/setup – Setup Cricut Explore & Cricut Maker Machine</h1>
 
-Want to explore what’s in Cricut electronic cutting machines? Let’s check out cricut.com/setup to examine what we get from the Cricut machine. Maybe you started working on the Cricut machine recently, or you are thinking about exploring it. Either way, you will need a proper platform to get all the information. For a complete guide instruction, visit cricut.com/setup and get the different types of machines to start your projects on. To get started, you require simple techniques for setting up your Cricut Explore, Cricut Maker, Cricut Explore Air 2, Cricut Mug Press, Cricut Easy Press, and other machines.
+Want to explore what’s in Cricut electronic cutting machines? Let’s check out cricut.com/setup to examine what we get from the Cricut machine. Maybe you started working on the Cricut machine recently, or you are thinking about exploring it. Either way, you will need a proper platform to get all the information. For a complete guide instruction, visit <a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a> and get the different types of machines to start your projects on. To get started, you require simple techniques for setting up your Cricut Explore, Cricut Maker, Cricut Explore Air 2, Cricut Mug Press, Cricut Easy Press, and other machines.
 
 <h2>What Are the Best Cutting Machines?</h2>
 
@@ -70,7 +70,7 @@ In addition, you can use a user-friendly interface to develop unique designs.
 How Does Cricut Explore Air 2 Cuts with Printer?
 What is the requirement of a printer in your craft plotting? Well, to create, cut, and print projects, such as labels, stickers, birthday cards, and so much more, you need to install a Cricut Explore Air 2 or Cricut Maker 3 machine on your printer. Let’s check out the steps.
 
-Start the setup process by visiting cricut.com/setup.
+Start the setup process by visiting <a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a>.
 Then, download the Cricut Design Space app/ software.
 Next, log into the Cricut Design Space account.
 Register a new account and sign in if you have bought a Cricut machine for the first time.
@@ -87,7 +87,7 @@ Now, you know how to use the Cricut Explore Air 2 or Cricut Maker 3 machine on t
 
 <h2>FAQs
 Question: How to print then cut on Cricut?</h2>
-Answer: Print then cut on Cricut (cricut.com/setup):
+Answer: Print then cut on Cricut (<a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a>):
 
 Start with printing the page via your home printer.
 Next, set the paper on the Cricut cutting mat.
@@ -95,7 +95,7 @@ Then, load it into the Cricut machine.
 And the machine will now scan for the sensor marking.
 Lastly, will cut around the designed image with accuracy.
 Question: How to make car decals with Cricut?
-Answer: Make Car Decals with Cricut (cricut.com/setup):
+Answer: Make Car Decals with Cricut (<a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a>):
 
 Start with preparing your design.
 Then, cut the design.
@@ -105,7 +105,7 @@ Next, clean the car window.
 After that, apply the vinyl to your car window.
 Voila! Your Car decals are ready.
 Question: How to use Cricut iron-on easily?
-Answer: Use Cricut Iron-On (cricut.com/setup):
+Answer: Use Cricut Iron-On (<a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a>):
 
 Choose and create your design in the software (Design Space).
 Tap on Everyday Iron-On from the list of materials.
