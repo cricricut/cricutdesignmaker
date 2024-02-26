@@ -1,5 +1,5 @@
 # cricutdesignmaker
-<Big><a href="https://cricutsetjoy.com">Get Started</a></Big>
+<h1><Big><a href="https://cricutsetjoy.com">Get Started</a></Big></h1>
 <h1>Cricut.com/setup – Setup Cricut Explore & Cricut Maker Machine</h1>
 
 Want to explore what’s in Cricut electronic cutting machines? Let’s check out cricut.com/setup to examine what we get from the Cricut machine. Maybe you started working on the Cricut machine recently, or you are thinking about exploring it. Either way, you will need a proper platform to get all the information. For a complete guide instruction, visit <a href="https://github.com/cricricut/cricutdesignmaker/">cricut.com/setup</a> and get the different types of machines to start your projects on. To get started, you require simple techniques for setting up your Cricut Explore, Cricut Maker, Cricut Explore Air 2, Cricut Mug Press, Cricut Easy Press, and other machines.
